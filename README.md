@@ -1,7 +1,7 @@
 # hyperapp-todolist
-Demo hypeapp 
-Run source
-npm install
-then
+Demo hypeapp /n
+Run source /n
+npm install /n
+then/n
 npm run webpack
 
