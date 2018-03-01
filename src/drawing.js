@@ -1,5 +1,6 @@
 import { h, app } from "./lib/hyper-app/index"
 import { TodoList } from "./component/todo-list/todo-list"
+import  "../src/assets/todo-list.scss"
 /** @jsx h */
 // const item = TodoItem;
 const FilterInfo = { All: 0, Todo: 1, Done: 2 }
